@@ -53,3 +53,29 @@ inline > tag style > tag link
 }
 
 ```
+
+# Shorthand
+*junção de propriedades
+*resumido
+*legivel
+
+```css
+{
+    /* backgrouns proprerties */
+    backgrouns-color: #000;
+    background-image: url(images/bg.gif):
+    backgrouns-repeat: no-repeat;
+    backgrouns-position: left top;
+
+    /* background shorthand */
+    background: #000 url(imagens/bg.gif) no-repeat left top;
+
+    /* font properties */
+    font-style: italic;
+    font-weight: bold;
+    font-size: .8em;
+    line-height: 1.2;
+    font-family: Arial, sans-serif;
+    
+
+}
