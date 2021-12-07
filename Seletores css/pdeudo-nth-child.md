@@ -31,5 +31,10 @@ article p:nth-child(2) {
 </ul>
 ```
 ```css
-ul li:nth
+ul li:nth-child(odd){
+    color: black;
+    background: #eee;
+}
+ul li:nth-child(even){
+    color: gray;
 ```
