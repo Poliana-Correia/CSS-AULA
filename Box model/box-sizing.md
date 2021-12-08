@@ -8,6 +8,9 @@ Como sera calculado o tamanho total da caixa?
 div {
     box-sizing: border-box;
 }
+
+obs: box-sizing: border-box; 
+(responsavel por fazer a caixa ter o tamanho informado e não somar com a borda)
 ```
 
 EXEMPLO:
