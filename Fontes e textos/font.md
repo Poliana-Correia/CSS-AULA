@@ -26,3 +26,43 @@ p {
 
 - serif  (fonte que tem as dobrinhas em baixo)
 - sans   (sem a dobrinha)
+
+## font weight
+
+* Peso da fonte
+
+```css
+p {
+    font-weight: bold;
+}
+```
+
+## font style
+
+* O estilo da fonte
+
+```css
+span {
+    font-style: italic;
+}
+```
+
+## font size
+
+* Tamanho da fonte
+
+```css
+p {
+    font-size: 18px;
+}
+```
+
+
+## web fonts
+
+- fontes do sistema x fontes da web
+- como usar fontes para web
+
+    * @font-face
+    * @import
+    * link
